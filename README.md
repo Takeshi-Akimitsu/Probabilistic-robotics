@@ -17,4 +17,10 @@
 # 参考
 詳細確率ロボティクス
 
-[ryuichiueda/LNPR_BOOK_CODE](https://github.com/ryuichiueda/LNPR_BOOK_CODES/tree/master)
+[ryuichiueda/LNPR_BOOK_CODES](https://github.com/ryuichiueda/LNPR_BOOK_CODES/tree/master)
+
+# 謝辞
+このパーティクルフィルタは[上田隆一さん](https://github.com/ryuichiueda/LNPR_BOOK_CODES/tree/master)
+)のコードを参考に製作しました。誠にありがとうございます。
+
+
