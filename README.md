@@ -21,6 +21,6 @@
 
 # 謝辞
 このパーティクルフィルタは[上田隆一さん](https://github.com/ryuichiueda/LNPR_BOOK_CODES/tree/master)
-)のコードを参考に製作しました。誠にありがとうございます。
+のコードを参考に製作しました。誠にありがとうございます。
 
 
